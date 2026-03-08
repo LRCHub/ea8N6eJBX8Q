@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "To All Tha Dreamers",
+  "base_artist": "SOUL'd OUT",
+  "createdAt": "2026-03-08T02:24:29.265059Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "To All Tha Dreamers",
+      "artist": "SOUL’d OUT",
+      "has_synced": true,
+      "path": "select/01_To_All_Tha_Dreamers_SOUL’d_OUT.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "To All Tha Dreamers",
+      "artist": "SOUL’d OUT",
+      "has_synced": false,
+      "path": "select/02_To_All_Tha_Dreamers_SOUL’d_OUT.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "To All Tha Dreamers",
+      "artist": "SOUL’d OUT",
+      "has_synced": true,
+      "path": "select/03_To_All_Tha_Dreamers_SOUL’d_OUT.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "To All Tha Dreamers",
+      "artist": "SOUL'd OUT",
+      "has_synced": true,
+      "path": "select/04_To_All_Tha_Dreamers_SOUL'd_OUT.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "To All Tha Dreamers",
+      "artist": "SOUL'd OUT",
+      "has_synced": false,
+      "path": "select/05_To_All_Tha_Dreamers_SOUL'd_OUT.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "To All Tha Dreamers",
+      "artist": "SOUL'd OUT",
+      "has_synced": true,
+      "path": "select/06_To_All_Tha_Dreamers_SOUL'd_OUT.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "To All Tha Dreamers",
+      "artist": "SOUL'd OUT",
+      "has_synced": false,
+      "path": "select/pl_01_To_All_Tha_Dreamers_SOUL'd_OUT.txt"
+    }
+  ]
+}
